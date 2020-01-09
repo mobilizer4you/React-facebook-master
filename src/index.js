@@ -1,5 +1,6 @@
 // @flow
 export FacebookProvider from './FacebookProvider';
+export FacebookContext from './FacebookContext';
 
 export Parser from './Parser';
 export Initialize from './Initialize';
