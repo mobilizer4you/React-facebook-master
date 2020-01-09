@@ -457,16 +457,9 @@ export default class Example extends Component {
 }
 ```
 
-# Support us
-
-Star this project on [GitHub][github-url].
-
 ## Try our other React components
 
  - Translate your great project [react-translate-maker](https://github.com/CherryProjects/react-translate-maker)
  - Google Analytics [react-g-analytics](https://github.com/seeden/react-g-analytics)
  - Google AdSense via Google Publisher Tag [react-google-publisher-tag](https://github.com/seeden/react-google-publisher-tag)
 
-## Credits
-
-[Zlatko Fedor](http://github.com/seeden)
